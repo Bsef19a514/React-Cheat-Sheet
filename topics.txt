@@ -1,0 +1,15 @@
+1) Introduction
+1.1) Babel
+
+2) JSX
+3) Render mutiple elements in react
+4) React Fragments and its synthetic method
+5) JS expression in JSX
+6) JSX arttributes
+7) Add external style sheet in React's index.js file
+        Just write import "path of the file" in index.js like import "./index.css"
+8) Add google fonts
+        Add the link of google fonts to the html file like index.html and implement the style in index.css like font-family:"Roboto"
+9) Inline styling
+10) React componets | Functional components
+11) Import Export in React
