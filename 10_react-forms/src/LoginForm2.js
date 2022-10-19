@@ -6,7 +6,7 @@ const LoginForm2=()=>{
         password:""
     }
     
-    // using single reack hook (useState) and single onChangeHandler() for all the inputs
+    // using single react hook (useState) and single onChangeHandler() for all the inputs
     let [onChangedata,setOnChangeData]=useState(obj)
     let [onClickData,setOnclickData]=useState(obj)
    
