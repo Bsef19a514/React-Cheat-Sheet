@@ -25,6 +25,7 @@ const SignupForm=()=>{
                 ...prevValue,  //using spread opearator
                 [name]:value
             })
+            // not recomended way
             // if(name==="fname"){
             //    return {
             //         firstname:value,
