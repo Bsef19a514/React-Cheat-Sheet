@@ -1,4 +1,5 @@
 import React,{useState} from "react"
+import AddIcon from '@mui/icons-material/Add';
 
 const Incrementer=()=>{
     let number=0
@@ -25,8 +26,10 @@ const Incrementer=()=>{
     <>
         <div>
             <h1>{newNumber}</h1>
-            <button onClick={increment}>Increment</button>
-            <button onClick={decrement}>Decrement</button>
+            {/* using font awesone icons */}
+            <button onClick={increment}><i class="fa-solid fa-plus"></i></button>
+            {/* using material ui icons */}
+            <button onClick={decrement}><AddIcon/></button>
         </div>
     </>)
 }

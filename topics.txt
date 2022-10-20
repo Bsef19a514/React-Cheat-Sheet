@@ -13,3 +13,10 @@
 9) Inline styling
 10) React componets | Functional components
 11) Import Export in React
+12) using materialUI Icons in React
+        install all thsese dependencies
+                npm i @material-ui/icons --force
+                npm install @material-ui/core --force
+
+                npm install @emotion/react
+                yarn add @emotion/styled
