@@ -17,6 +17,6 @@
         install all thsese dependencies
                 npm i @material-ui/icons --force
                 npm install @material-ui/core --force
-
+                @mui/icons-material
                 npm install @emotion/react
-                yarn add @emotion/styled
+                npm i @emotion/styled
