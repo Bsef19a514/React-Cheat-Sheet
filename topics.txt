@@ -20,3 +20,5 @@
                 @mui/icons-material
                 npm install @emotion/react
                 npm i @emotion/styled
+13) api call using axios package
+        npm i axios
