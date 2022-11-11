@@ -22,3 +22,8 @@
                 npm i @emotion/styled
 13) api call using axios package
         npm i axios
+14) react router
+        1) activeClassName
+        2) element props (current method=> v6) vs Render method (old method=> v5)
+15) useParams() hook
+        

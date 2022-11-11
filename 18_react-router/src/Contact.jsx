@@ -1,6 +1,9 @@
-const Contact=()=>{
+const Contact=(props)=>{
     return(
-    <h1>This is contact us page</h1>
+    <>
+    <h1>Hello world</h1>
+    <h1>This is {props.name} page</h1>
+    </>
     )
 }
 
