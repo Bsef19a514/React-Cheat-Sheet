@@ -15,6 +15,7 @@ const Home=()=>{
     const {user,email}=useParams()
     return(
         <>
+            <h1>Home page</h1>
             <h1>User= {user}</h1>
             <h2>Email= {email}</h2>
         </>
